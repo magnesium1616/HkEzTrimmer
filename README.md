@@ -2,6 +2,9 @@
 
 シンプルで使いやすい画像トリミング・編集ツール
 
+![hkez](https://github.com/user-attachments/assets/903900b1-e5c3-400a-baf4-400bb882f406)
+
+
 ## 概要
 
 HkEzTrimmerは、画像のトリミング、リサイズ、色調補正などの基本的な画像編集機能を提供する軽量なツールです。
