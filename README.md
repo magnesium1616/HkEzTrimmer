@@ -2,8 +2,7 @@
 
 シンプルで使いやすい画像トリミング・編集ツール
 
-![hkez](https://github.com/user-attachments/assets/903900b1-e5c3-400a-baf4-400bb882f406)
-
+![demo01](https://github.com/user-attachments/assets/474c160f-e78a-4cc5-b358-6f0e63bc33fe)
 
 ## 概要
 
